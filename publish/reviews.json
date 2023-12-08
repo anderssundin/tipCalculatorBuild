@@ -1,0 +1,12 @@
+[
+  {
+    "Where": "Bankens Bar",
+    "Review": "Great food and service! ",
+    "Sentiment": "Positive"
+  },
+  {
+    "Where": "McDonalds",
+    "Review": "Very bad food, would not recomend",
+    "Sentiment": "Negative"
+  }
+]
